@@ -1,0 +1,118 @@
+{
+  "concept": "Assemblage",
+  "tokens": {
+    "--type-page-title": "2.35rem",
+    "--type-page-title-compact": "2.1rem",
+    "--type-section-title": "1.6rem",
+    "--type-section-title-compact": "1.5rem",
+    "--type-body": "1rem",
+    "--type-label": "0.875rem",
+    "--type-caption": "0.8125rem",
+    "--type-financial": "1.125rem",
+    "--type-metric": "3rem",
+    "--type-metric-compact": "2.65rem",
+    "--leading-page": "1.15",
+    "--leading-section": "1.2",
+    "--leading-body": "1.5",
+    "--space-component": "1.25rem",
+    "--space-related": "0.5rem",
+    "--background": "#f5f7f9",
+    "--foreground": "#152b3c",
+    "--card": "#fff",
+    "--primary": "#f9701b",
+    "--primary-foreground": "#14283a",
+    "--secondary": "#edf2f5",
+    "--muted-foreground": "#536779",
+    "--destructive": "#b33338",
+    "--border": "#dce4ea",
+    "--ring": "#266784",
+    "--radius": "0.55rem",
+    "--sidebar": "#142a3b",
+    "--sidebar-foreground": "#c3cfd9",
+    "--sidebar-accent": "#233f54",
+    "--sidebar-border": "#30495b"
+  },
+  "palette": [
+    [
+      "Marine",
+      "#142a3b",
+      "Navigation, surfaces choisies, accueil"
+    ],
+    [
+      "Encre",
+      "#152b3c",
+      "Texte principal et montants"
+    ],
+    [
+      "Orange",
+      "#f9701b",
+      "Action principale et sélection"
+    ],
+    [
+      "Ardoise",
+      "#536779",
+      "Texte secondaire lisible"
+    ],
+    [
+      "Papier",
+      "#f5f7f9",
+      "Espace de travail"
+    ],
+    [
+      "Blanc",
+      "#fff",
+      "Documents et surfaces utiles"
+    ]
+  ],
+  "typeRoles": [
+    [
+      "Titre de page",
+      "Barlow Condensed",
+      "2.35rem",
+      "600",
+      "Votre bibliothèque"
+    ],
+    [
+      "Titre de section",
+      "Barlow Condensed",
+      "1.6rem",
+      "600",
+      "À faire aujourd’hui"
+    ],
+    [
+      "Texte courant",
+      "IBM Plex Sans",
+      "1rem",
+      "400",
+      "Retrouvez vos devis et vos chantiers."
+    ],
+    [
+      "Libellé",
+      "IBM Plex Sans",
+      "0.875rem",
+      "500",
+      "Prix HT unitaire"
+    ],
+    [
+      "Montant de prestation",
+      "IBM Plex Sans",
+      "1.125rem",
+      "600",
+      "6 450,00 €"
+    ],
+    [
+      "Indicateur principal",
+      "Barlow Condensed",
+      "3rem",
+      "600",
+      "48 200 €"
+    ]
+  ],
+  "principles": [
+    "La sélection reprend le raccord marine/orange",
+    "Le texte secondaire reste lisible",
+    "Les chiffres financiers sont tabulaires",
+    "L’ordre mobile suit la prochaine action",
+    "Les marges ne grandissent pas au détriment du contenu"
+  ]
+}

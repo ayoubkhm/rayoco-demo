@@ -1,0 +1,1 @@
+import{v as e}from"./createBaseUIEventDetails-BL5tRld2.js";function t(t){return e(t,`base-ui`)}export{t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-p0-XB6lx.js";import{i as t}from"./framework-DrZPw3v6.js";var n=e(t(),1),r=()=>()=>void 0,i=()=>!0,a=()=>!1;function o(){return(0,n.useSyncExternalStore)(r,i,a)}export{o as t};
