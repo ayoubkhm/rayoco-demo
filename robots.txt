@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Pages in the atelier and account flows carry noindex metadata.
+# Let crawlers read that instruction instead of blocking it here.
+Sitemap: https://ayoubkhm.github.io/rayoco-demo/sitemap.xml

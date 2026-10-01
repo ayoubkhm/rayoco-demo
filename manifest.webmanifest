@@ -1,0 +1,32 @@
+{
+  "id": "/rayoco-demo/",
+  "name": "Rayoco · Atelier",
+  "short_name": "Rayoco",
+  "description": "Devis, factures et suivi de marge pour les artisans du bâtiment.",
+  "lang": "fr",
+  "start_url": "/rayoco-demo/atelier/",
+  "scope": "/rayoco-demo/",
+  "display": "standalone",
+  "background_color": "#F6F7F8",
+  "theme_color": "#152633",
+  "icons": [
+    {
+      "src": "/rayoco-demo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/rayoco-demo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/rayoco-demo/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
