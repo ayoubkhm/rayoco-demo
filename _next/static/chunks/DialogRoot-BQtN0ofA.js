@@ -1,0 +1,1 @@
+import{n as e}from"./DialogTitle-DNa6Wosc.js";function t(t){return e(`dialog`,t)}export{t};
