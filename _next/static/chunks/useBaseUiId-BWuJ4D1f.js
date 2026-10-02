@@ -1,1 +1,0 @@
-import{v as e}from"./createBaseUIEventDetails-Dwtsxt27.js";function t(t){return e(t,`base-ui`)}export{t};

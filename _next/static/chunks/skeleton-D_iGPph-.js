@@ -1,1 +1,0 @@
-import{r as e}from"./framework-DrZPw3v6.js";import{S as t}from"./createBaseUIEventDetails-Dwtsxt27.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{"data-slot":`skeleton`,className:t(`animate-pulse rounded-md bg-muted`,e),...r})}export{r as t};
