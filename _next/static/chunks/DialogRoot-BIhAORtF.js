@@ -1,0 +1,1 @@
+import{n as e}from"./DialogTitle-DACzOY37.js";function t(t){return e(`dialog`,t)}export{t};
