@@ -1,1 +1,0 @@
-import{n as e}from"./DialogTitle-kneHCRiH.js";function t(t){return e(`dialog`,t)}export{t};
