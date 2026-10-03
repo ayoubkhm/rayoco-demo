@@ -1,1 +1,0 @@
-import{n as e}from"./DialogTitle-CKXq_9sa.js";function t(t){return e(`dialog`,t)}export{t};
